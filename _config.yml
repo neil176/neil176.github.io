@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: "dracula/gh-pages"
+exclude:
+  - "README.md"
+# title: [The title of your site]
+# description: [A short description of your site's purpose]
+
+# Additionally, you may choose to set the following optional variables:
+
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
+# show_header: ["true" or "false" to indicate whether to show the top header]
+
+# There are also currently the following optional page variables:
+
+# icon: [path to file including extension]
+# colorspace: [primary page color cyan/green/orange/pink/purple/red/yellow]
+colorspace: yellow
