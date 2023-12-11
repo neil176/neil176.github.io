@@ -1,5 +1,6 @@
 ---
 layout: default
+colorspace: orange
 ---
 
 # This is a placeholder

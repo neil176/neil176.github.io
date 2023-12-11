@@ -2,9 +2,9 @@
 remote_theme: "dracula/gh-pages"
 exclude:
   - "README.md"
-# title: [The title of your site]
-# description: [A short description of your site's purpose]
-
+title: Neil's Blog
+description: |
+  Just something to tinker with
 # Additionally, you may choose to set the following optional variables:
 
 # show_downloads: ["true" or "false" to indicate whether to provide a download URL]
@@ -13,6 +13,9 @@ exclude:
 
 # There are also currently the following optional page variables:
 
+
+
+
+# These go on the pages
 # icon: [path to file including extension]
 # colorspace: [primary page color cyan/green/orange/pink/purple/red/yellow]
-colorspace: yellow

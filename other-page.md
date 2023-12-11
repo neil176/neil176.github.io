@@ -1,3 +1,7 @@
+---
+layout: default
+colorspace: orange
+---
 
 
 # Other page
